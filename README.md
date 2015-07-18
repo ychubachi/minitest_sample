@@ -1,6 +1,6 @@
 # MinitestSample
 
-This is an example gem for the AIIT lecture.
+This is an example gem for the AIIT lecture in 2015.
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/minitest_sample`. To experiment with that code, run `bin/console` for an interactive prompt.
 
